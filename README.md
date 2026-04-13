@@ -1,3 +1,9 @@
+# Nama   : Izaz Falih
+# NIM    : H1D024034
+# SHIFT A
+
+---
+
 # Sistem Pakar Diagnosa Kerusakan Komputer
 
 Sistem pakar berbasis Python untuk mendiagnosa kerusakan komputer/laptop berdasarkan gejala yang dipilih pengguna. Dibuat sebagai tugas praktikum mata kuliah Sistem Pakar.
