@@ -100,25 +100,6 @@ def cari_kerusakan(gejala_dipilih):
 
 ---
 
-## 📁 Struktur File
-
-```
-sistem-pakar-komputer/
-├── sistem_pakar.py   # File utama program
-└── README.md         # Dokumentasi ini
-```
-
----
-
-## 🛠️ Teknologi
-
-| Komponen | Keterangan |
-|----------|------------|
-| Bahasa | Python 3 |
-| GUI | tkinter (bawaan Python) |
-| Struktur Data | Dictionary (nested) |
-| Metode Inferensi | Forward Chaining |
-
 ---
 
 ## 📌 Catatan
