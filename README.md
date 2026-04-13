@@ -1,6 +1,6 @@
-# Nama   : Izaz Falih
-# NIM    : H1D024034
-# SHIFT A
+## Nama   : Izaz Falih
+## NIM    : H1D024034
+## SHIFT A
 
 ---
 
