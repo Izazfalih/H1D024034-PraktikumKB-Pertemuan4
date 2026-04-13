@@ -1,16 +1,16 @@
-# 🖥️ Sistem Pakar Diagnosa Kerusakan Komputer
+# Sistem Pakar Diagnosa Kerusakan Komputer
 
 Sistem pakar berbasis Python untuk mendiagnosa kerusakan komputer/laptop berdasarkan gejala yang dipilih pengguna. Dibuat sebagai tugas praktikum mata kuliah Sistem Pakar.
 
 ---
 
-## 📋 Deskripsi
+## Deskripsi
 
 Program ini meniru cara kerja seorang teknisi komputer dalam menganalisa kerusakan. Pengguna cukup mencentang gejala yang dialami, lalu sistem akan mencocokkannya dengan basis pengetahuan (*knowledge base*) dan menampilkan kemungkinan kerusakan beserta solusinya.
 
 ---
 
-## ✨ Fitur
+## Fitur
 
 - Antarmuka GUI sederhana menggunakan **tkinter**
 - **5 jenis kerusakan** yang dapat didiagnosa
@@ -20,7 +20,7 @@ Program ini meniru cara kerja seorang teknisi komputer dalam menganalisa kerusak
 
 ---
 
-## 🧠 Knowledge Base
+## Knowledge Base
 
 | No | Kerusakan | Gejala | Solusi |
 |----|-----------|--------|--------|
@@ -32,7 +32,7 @@ Program ini meniru cara kerja seorang teknisi komputer dalam menganalisa kerusak
 
 ---
 
-## 🗂️ Struktur Kode
+## Struktur Kode
 
 ```
 sistem_pakar.py
@@ -53,7 +53,7 @@ sistem_pakar.py
 
 ---
 
-## ⚙️ Cara Menjalankan
+## Cara Menjalankan
 
 **Persyaratan:**
 - Python 3 sudah terinstal
@@ -102,7 +102,7 @@ def cari_kerusakan(gejala_dipilih):
 
 ---
 
-## 📌 Catatan
+## Catatan
 
 Program ini dibuat dengan tujuan **pembelajaran**. Knowledge base dapat dengan mudah diperluas dengan menambahkan entry baru pada dictionary `knowledge_base` tanpa perlu mengubah logika program.
 
